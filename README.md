@@ -38,11 +38,13 @@ This project demonstrates a complete exploratory data analysis (EDA) pipeline on
 
         Count of titles by rating
 
+ 	Count of titles by countries
+
 🛠️ Tools & Technologies
 		
-		Jupyter Notebook
+    Jupyter Notebook
     
-		Python 3 (Pandas, Matplotlib, SQLite3)
+    Python 3 (Pandas, Matplotlib, SQLite3)
 
     Excel (Power Query, formulas)
 
